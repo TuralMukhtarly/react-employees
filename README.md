@@ -1,1 +1,1 @@
-https://turalmukhtarly.github.io/react/
+https://turalmukhtarly.github.io/react-employees/
